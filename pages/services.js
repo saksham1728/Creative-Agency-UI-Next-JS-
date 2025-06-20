@@ -8,7 +8,7 @@ const services = () => {
       <Head>
         <title>Team - 7Creative</title>
       </Head>
-      <Services />
+      {/* <Services /> */}
     </>
   )
 }

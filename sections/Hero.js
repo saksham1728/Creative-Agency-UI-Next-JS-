@@ -41,14 +41,14 @@ const Hero = () => {
       </section>
       <Expertise />
       <Banner />
-      <Testimonial />
+      {/* <Testimonial />
       <ShowCase />
       <Brand />
 
       <div className='text-center'>
         <Title title='Latest news & articles' />
       </div>
-      <BlogCard />
+      <BlogCard /> */}
     </>
   )
 }

@@ -8,7 +8,7 @@ const contact = () => {
       <Head>
         <title>Contact - 7Creative</title>
       </Head>
-      <Contact />
+      {/* <Contact /> */}
     </>
   )
 }

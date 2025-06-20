@@ -8,7 +8,7 @@ const showcase = () => {
       <Head>
         <title>ShowCase - 7Creative</title>
       </Head>
-      <ShowCase />
+      {/* <ShowCase /> */}
     </>
   )
 }

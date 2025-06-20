@@ -7,7 +7,7 @@ const Blogs = () => {
       <Head>
         <title>Blog - 7Creative</title>
       </Head>
-      <Blog />
+      {/* <Blog /> */}
     </>
   )
 }
